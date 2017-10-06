@@ -1,0 +1,8 @@
+endpoint: https://somevalidurl.myracloud.com
+language: en
+proxy: ""
+
+login:
+    user: user1
+    apikey: deadbeef1fbd41116fe98bbeeeeeeeef
+    secret: deadaef1fbd41116fe98beefabc14142
