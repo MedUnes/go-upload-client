@@ -4,7 +4,7 @@ import (
 	"io"
 	"net/http"
 
-	"myracloud.com/myra-upload/api/vo"
+	"github.com/Myra-Security-GmbH/go-upload-client/api/vo"
 )
 
 //

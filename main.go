@@ -7,10 +7,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"myracloud.com/myra-upload/api"
+	"github.com/Myra-Security-GmbH/go-upload-client/api"
 
 	arg "github.com/alexflint/go-arg"
-	config "myracloud.com/myra-upload/config"
+	config "github.com/Myra-Security-GmbH/go-upload-client/config"
 )
 
 var args struct {

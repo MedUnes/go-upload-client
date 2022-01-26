@@ -1,4 +1,5 @@
-package: myracloud.com/myra-upload
+#package: myracloud.com/myra-upload
+package: github.com/Myra-Security-GmbH/go-upload-client
 import:
 - package: github.com/alexflint/go-arg
 - package: github.com/go-yaml/yaml

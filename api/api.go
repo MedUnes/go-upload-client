@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"time"
 
-	auth "myracloud.com/myra-upload/api/authentication"
+	auth "github.com/Myra-Security-GmbH/go-upload-client/api/authentication"
 )
 
 //
