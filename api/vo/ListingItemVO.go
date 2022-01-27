@@ -1,6 +1,6 @@
 package vo
 
-import "myracloud.com/myra-upload/listing"
+import "github.com/Myra-Security-GmbH/go-upload-client/listing"
 
 //
 // ListingItemVO ...
