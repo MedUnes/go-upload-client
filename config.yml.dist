@@ -1,0 +1,6 @@
+endpoint: __MYRA_CDN_URL__        # ex: https://upload.myracloud.com
+language: en
+login:
+  user:   __MYRA_CDN_USER__       # ex: john.doe@myrasecurity.comxxxxxxx
+  apikey: __MYRA_CDN_KEY__        # ex: 1ad324e40f0e95a045bee4412312b547
+  secret: __MYRA_CDN_SECRET__     # ex: 2d02a6e40f0e95a045bee4412310e20a

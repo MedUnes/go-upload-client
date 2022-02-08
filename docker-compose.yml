@@ -1,0 +1,19 @@
+version: "3.6"
+
+services:
+  go_upload_client:
+    container_name: go_upload_client
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - go-upload-client:/go/src/github.com/Myra-Security-GmbH/go-upload-client
+
+volumes:
+  go-upload-client:
+    name: go-upload-client
+    driver: local
+    driver_opts:
+      type: none
+      device: .
+      o: bind
